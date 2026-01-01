@@ -1,0 +1,14 @@
+python-dateutil>=2.8
+pandas>=1.5
+numpy>=1.24
+networkx>=3.0
+osmnx>=1.2
+geopandas>=0.12
+shapely>=2.0
+folium>=0.14
+scikit-learn>=1.1
+matplotlib>=3.5
+torch>=2.0
+tqdm
+statsmodels
+flask
