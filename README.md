@@ -72,5 +72,4 @@ The system follows a modular pipeline:
 
 ---
 
-## 📂 Project Structure
 
